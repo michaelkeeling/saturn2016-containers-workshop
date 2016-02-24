@@ -3,9 +3,9 @@
 Abstract goes here :wink:
 
 **Important Dates**
-* Workshop RSVP - April 1, 2015
-* Position papers deadline - April 13, 2015
-* Workshop - April 27, 2015 @ 8:30 AM
+* Workshop RSVP - April 1, 2016
+* Position papers deadline - April 16, 2016
+* Workshop - May 2, 2016 @ 8:30 AM
 
 
 **More Information**

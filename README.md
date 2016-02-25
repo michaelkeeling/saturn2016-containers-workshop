@@ -1,6 +1,9 @@
 # SATURN 2016 Workshop on Containers and Software Architecture
 
-Abstract goes here :wink:
+Write once run anywhere.  Over the years many technologies and design paradigms have made this promise.  Virtual containers such as Docker and CoreOS may finally be the technology that truly delivers on the promise.  But with all new powers developers must be prepared for a new set of responsibilities.  Containers may bring portability but with it comes new abstractions.  Scalability might be achievable but only when certain patterns are followed.  Like all the magic that came before it, an improper understanding of the abstractions underneath brings calamity.
+
+In this workshop we plan to explore the architectural implications of containerization. Based on what we learn, we'll create posters at the end of the day to summarize our findings so we can share what we've learned with the SATURN community. [Some questions and topics we will consider during the workshop include the items listed on this page](questions.md).
+
 
 **Important Dates**
 * Workshop RSVP - April 1, 2016

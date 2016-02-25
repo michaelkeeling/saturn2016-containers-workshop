@@ -34,3 +34,6 @@ The 12th SEI Architecture Technology User Network (SATURN) Conference brings tog
 
 * [George Fairbanks](https://github.com/georgefairbanks) | [@GHFairbanks](https://twitter.com/GHFairbanks)
 * [Michael Keeling](https://github.com/michaelkeeling) |  [@michaelkeeling](https://twitter.com/michaelkeeling)
+
+
+![](https://duckduckgrayduck.files.wordpress.com/2011/10/cargo.jpg?w=500)

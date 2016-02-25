@@ -13,6 +13,7 @@
 * What quality attributes matter in a containerized world?  What properties are promoted?  Inhibited?
 * What views do containers help with?
 * Are existing architectural styles sufficient as defined?
+* What are the benefits of containers?  Who gets those benefits?
 
 ## Implementation Concerns
 

@@ -1,10 +1,10 @@
 Interested in exploring the what and why of containers and their implications on software architecture?  Here is how you can become a participant in the workshop:
 
-1. Contact one of the workshop organizers.
-2. Prepare a brief "position paper" containing your ideas, questions, and experiences and submit it to the workshop by forking this workshop repository in GitHub and issuing a [pull request](https://help.github.com/articles/using-pull-requests/) with your position paper included.
-3. [Register for the SATURN 2016 conference](http://www.sei.cmu.edu/saturn/2016/registration.cfm).
+1. Prepare a brief "position paper" containing your ideas, questions, and experiences and submit it to the workshop by forking this workshop repository in GitHub and issuing a [pull request](https://help.github.com/articles/using-pull-requests/) with your position paper included.
+2. You will be contacted via the pull request by the workshop organizers regarding acceptance into the workshop.  To reserve your spot you should submit a reasonable first draft as soon as possible, no later than April 16.
+3. Once you are confirmed for the workshop, if you have not already, [register for the SATURN 2016 conference](http://www.sei.cmu.edu/saturn/2016/registration.cfm).
 
-You must have RSVP'd to the workshop by April 1, 2016 to participate.  Position papers are due by April 16, 2016.
+Final drafts of position papers are due by April 16, 2016.
 
 ## Position Papers
 

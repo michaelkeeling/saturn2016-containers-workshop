@@ -6,8 +6,9 @@ In this workshop we plan to explore the architectural implications of containeri
 
 
 **Important Dates**
-* Workshop RSVP - April 1, 2016
-* Position papers deadline - April 16, 2016
+* Submit draft position papers as a pull request to this repo as soon as possible to reserve your spot in the workshop
+  * Note: Space is limited and spots will be filled first come, first served.
+* Deadline for "final Draft" of position papers - April 16, 2016
 * Workshop - May 2, 2016 @ 8:30 AM
 
 

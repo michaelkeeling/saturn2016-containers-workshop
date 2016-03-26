@@ -21,6 +21,7 @@ In this workshop we plan to explore the architectural implications of containeri
 
 ## Position Papers
 
+* [Our Understanding of the Allocation Style is Out of Date](position-papers/our-understanding-of-allocation-patterns-is-out-of-date.md) by Michael Keeling
 
 
 

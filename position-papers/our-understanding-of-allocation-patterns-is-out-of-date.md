@@ -2,7 +2,7 @@ SATURN 2016 Containers Workshop Position Paper
 
 [Michael Keeling](http://www.neverletdown.net/) | [@michaelkeeling](https://twitter.com/michaelkeeling)
 
-# Our Understanding of the Allocation Style is Out of Date
+# Our Understanding of Allocation Styles is Out of Date
 
 I find allocation patterns fascinating.  Allocation views map the 
 abstract software elements of an architecture to things that exist

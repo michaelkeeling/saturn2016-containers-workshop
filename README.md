@@ -24,7 +24,7 @@ In this workshop we plan to explore the architectural implications of containeri
 * [Our Understanding of the Allocation Style is Out of Date](position-papers/our-understanding-of-allocation-patterns-is-out-of-date.md) by Michael Keeling
 * [Containers - Enabler of DevOps](position-papers/joe-containers-enabler-of-devops.md) by Jørn Ølmheim
 * [Basis of Containers](position-papers/containers-basis.md) by Clay Baenziger
-
+* [The Relationship of Containers and Software Testing](position-papers/relationship-of-containers-and-software-testing.md) by Dennis Mancl
 
 
 ## About SATURN

@@ -1,5 +1,9 @@
 # Using containers to keep costs down while maintaining security
 
+Harald Wesenberg
+
+SATURN 2016 Containers Workshop Position Paper
+
 
 When working for a large multinational oil company, there are always many competing interests
 at play. As developers we want to have as much freedom as possible to install, test, and change

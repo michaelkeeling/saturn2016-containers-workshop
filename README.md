@@ -25,6 +25,9 @@ In this workshop we plan to explore the architectural implications of containeri
 * [Containers - Enabler of DevOps](position-papers/joe-containers-enabler-of-devops.md) by Jørn Ølmheim
 * [Basis of Containers](position-papers/containers-basis.md) by Clay Baenziger
 * [The Relationship of Containers and Software Testing](position-papers/relationship-of-containers-and-software-testing.md) by Dennis Mancl
+* [An IT Application Developer's Perspective on Containers](position-papers/George Fairbanks - An IT Developer's Perspective on Containers.md) by George Fairbanks
+* [Len Bass's Position Paper](position-papers/Len Bass - position paper for SATURN 2016.pdf) by Len Bass
+* [Containers as Architectural Elements - better zip files or a new architectural style?](position-papers/eoinwoods-containers-as-architectural-elements.md) by Eoin Woods
 
 
 ## About SATURN

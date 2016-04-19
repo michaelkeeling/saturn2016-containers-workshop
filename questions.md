@@ -26,5 +26,5 @@ In this workshop we plan to explore the architectural implications of containeri
 
 * What new risks and trade-offs are introduced by adopting containers?
 * What development practices and team organization are assumed when using container-based allocation patterns?
-* What is the connection with DevOps?  Ho much DevOps maturity is required? Suggested? Optional?
+* What is the connection with DevOps?  How much DevOps maturity is required? Suggested? Optional?
 * What is the connection to cloud allocation and deployment patterns?

@@ -21,10 +21,10 @@ In this workshop we plan to explore the architectural implications of containeri
 
 
 ## Position Papers
-* [Our Understanding of the Allocation Style is Out of Date](position-papers/our-understanding-of-allocation-patterns-is-out-of-date.md) by Michael Keeling
+* [Our Understanding of the Allocation Style is Out of Date](position-papers/keeling-our-understanding-of-allocation-patterns-is-out-of-date.md) by Michael Keeling
 * [Containers - Enabler of DevOps](position-papers/joe-containers-enabler-of-devops.md) by Jørn Ølmheim
-* [Basis of Containers](position-papers/containers-basis.md) by Clay Baenziger
-* [The Relationship of Containers and Software Testing](position-papers/relationship-of-containers-and-software-testing.md) by Dennis Mancl
+* [Basis of Containers](position-papers/baenziger-containers-basis.md) by Clay Baenziger
+* [The Relationship of Containers and Software Testing](position-papers/mancl-relationship-of-containers-and-software-testing.md) by Dennis Mancl
 * [An IT Application Developer's Perspective on Containers](position-papers/George Fairbanks - An IT Developer's Perspective on Containers.md) by George Fairbanks
 * [Len Bass's Position Paper](position-papers/Len Bass - position paper for SATURN 2016.pdf) by Len Bass
 * [Containers as Architectural Elements - better zip files or a new architectural style?](position-papers/eoinwoods-containers-as-architectural-elements.md) by Eoin Woods

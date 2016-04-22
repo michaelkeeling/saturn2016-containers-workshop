@@ -29,8 +29,8 @@ In this workshop we plan to explore the architectural implications of containeri
 * [Len Bass's Position Paper](position-papers/Len Bass - position paper for SATURN 2016.pdf) by Len Bass
 * [Containers as Architectural Elements - better zip files or a new architectural style?](position-papers/eoinwoods-containers-as-architectural-elements.md) by Eoin Woods
 * [Using containers to keep costs down while maintaining security](position-papers/Harald-Wesenberg-Using-containers-to-keep-costs-down-while-maintaining-security.md ) by Harald Wesenberg
-* [Containers: For Better or Worse](position-papers/manning-containers-for-better-or-worse.md)
-* [Cloud-in-a-box](position-papers/kurt-stam-cloud-in-a-box.md)
+* [Containers: For Better or Worse](position-papers/manning-containers-for-better-or-worse.md) by Jenny Manning
+* [Cloud-in-a-box](position-papers/kurt-stam-cloud-in-a-box.md) by Kurt Stam
 
 
 ## About SATURN

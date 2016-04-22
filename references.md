@@ -2,8 +2,7 @@
 
 We encourage attendees to help us curate a list of good reading on the topic.  In addition to the submitted position papers, here is some other material that would be good to read/skim prior to the workshop.
 
-
-## Patterns
+Friedman, Julian. [Build your own Container using less than 100 lines of Go](http://www.infoq.com/articles/build-a-container-golang). April 2016
 
 Dasque, Erik. [A Tale of Three Docker Anti-Patterns](http://techblog.constantcontact.com/devops/a-tale-of-three-docker-anti-patterns/). January 11, 2016
 

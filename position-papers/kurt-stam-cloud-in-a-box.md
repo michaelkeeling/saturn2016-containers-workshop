@@ -41,7 +41,7 @@ Each cell is very cheap. There are plenty of low cost nano computers available s
 Each cell is powered by an ARM processor that is designed to be power efficient first, as they are designed to run in mobile phones. The hard drive of the device is microSD card which also draws very little power resulting in an average power usage of about 0.5 W. It is easy to see that even an appliance with 100 cells would only draw 50 W. This could be powered by simple solar cells, with battery backup. Finally, the management system can turn off cells depending on the load on the system.
 
 ##### Quiet
-Die to the low power consumption, the appliance does not need any forced cooling. This means it can operate without any fans and it does not need any specially cooled server room.
+Due to the low power consumption, the appliance does not need any forced cooling. This means it can operate without any fans and it does not need any specially cooled server room.
 
 ##### Reliability
 The most reliable machines are those that are designed for failure. This is exactly what makes this appliance so reliable. Each cell ships with the same exact software. Only a subset of the cells will run as a Kubernetes master,  the rest simply as Nodes. The appliance should have at least two masters so that if one fails the other can take over. Nodes could start their master daemon if the remaining number of masters falls below a certain level.
@@ -51,8 +51,8 @@ Masters schedule containers on the nodes. If a node fails, containers are automa
 Appliances do not need a central hosting facility. First off they can run locally in a decentralized fashion. Secondly appliances, or a part of an appliance, can set up as mirrors for other appliances for failover and disaster recovery.
 
 When the density of appliances reaches a certain level they could be configured to communicate peer-to-peer over WiFi protocols, providing an alternative to centralized Internet providers, further increasing reliability of the entire solution.
-Scalability
 
+##### Scalability
 The appliance is a basically a shrunken down Google data center. This configuration is proven to scale by simply adding more cells. The reason this is so easy to do is that the base configuration is all the same. We can easily flash microSD cards with a PXEBoot configuration to enable it to bootstrap itself at the first boot. At that time the base image can be put down and the node will register itself with the Kubernetes master, which will then start scheduling containers on it. It requires very little work and maintenance to scale the appliance itself and it’s just as easy to have multiple appliances join the same cluster.
 
 ### Immutable Containers and Micro Service Architecture

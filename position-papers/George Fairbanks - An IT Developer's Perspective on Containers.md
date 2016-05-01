@@ -44,11 +44,7 @@ Before discussing containers directly, it's important to look at the hardware th
 
 ## Software teams choose their hardware becomes homogenous datacenters
 
-TODO Trend: software chooses its hardware → software adapts to homogenous hardware.
-
-In the old days, you bought hardware that was suited to the task of running your software.  Thought went into choosing the right mix of processing speed, memory, storage, and database tech.  Datacenters were heterogenous.  
-
-Worse, since your hardware was not commodity, you had to order it before you had finished (or even started) writing the software.  Sometimes a higher priority project would steal your hardware order before you even received it, delaying your launch.
+In the old days, you bought hardware that was suited to the task of running your software.  Thought went into choosing the right mix of processing speed, memory, storage, and database tech.  Datacenters were heterogenous.  Worse, since your hardware was not commodity, you had to order it before you had finished (or even started) writing the software.  Sometimes a higher priority project would steal your hardware order before you even received it, delaying your launch.
 
 But then there was an inversion of primacy and the ability to scale datacenters efficiently became the most important consideration.  The hardware was homogenized.  In a reversal, software developers had to figure out how to design software that ran on the available hardware.
 
@@ -59,21 +55,10 @@ Current pattern languages (for code) and hardware capabilities (eg memory, cpu, 
 
 ## Modern containers are the "Mama Bear" of containers
 
-TODO Trend: Modern containers as the “Mama Bear” of container tech.
+1990s container tech (application engines, eg servlets, .Net services) was too tilted towards the IT problems.  How so?  Limited access to tune performance.  Few (or single) languages.  Certainly not process-level tuning.  More of a “trust the container to load balance” etc to achieve scale, performance, etc. sometimes with horrible results compared to hand-tuned solutions.
 
-1990s container tech (application engines, eg servlets, .Net services) was too tilted towards the IT problems
-How so?  Limited access to tune performance.  Few (or single) languages.  Certainly not process-level tuning.  More of a “trust the container to load balance” etc to achieve scale, performance, etc. sometimes with horrible results compared to hand-tuned solutions.
+2000’s container tech (virtual machines, eg VMWare) was too tilted towards systems problems.  Full control but ... you have to do it all yourself.  Still very manual (until the late 2000’s as scripting started to arrive).  Convenience of running a VM, relocating it, sharing images, but per-machine efficiency not great.
 
-2000’s container tech (virtual machines, eg VMWare) was too tilted towards systems problems
-Full control but … you have to do it all yourself.  Still very manual (until the late 2000’s as scripting started to arrive).  Convenience of running a VM, relocating it, sharing images, but per-machine efficiency not great.
-2010’s container tech (lightweight containers, eg Docker, Kubernetes) seems like the right fit between IT and Systems problems
+2010’s container tech (lightweight containers, eg Docker, Kubernetes) seems like the right fit between IT and Systems problems.
 
-As described above, current IT systems are in some ways confronting systems problems but aren’t ready (and arguably shouldn’t be distracted) with all the knobs and details of pure systems problems and their container tech.
-Scripting and out-of-the-box usability is much better, as is per-machine efficiency.
-
-Developers can spend less % of their attention on the deployment aspects compared to earlier container tech while getting better results.
-
-
-## Conclusion
-
-TODO
+As described above, current IT systems are in some ways confronting systems problems but aren’t ready (and arguably shouldn’t be distracted) with all the knobs and details of pure systems problems and their container tech.  Scripting and out-of-the-box usability is much better, as is per-machine efficiency.  Developers can spend less % of their attention on the deployment aspects compared to earlier container tech while getting better results.

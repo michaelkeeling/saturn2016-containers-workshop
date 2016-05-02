@@ -8,7 +8,7 @@ SATURN 2016 Containers Workshop Position Paper
 I find allocation patterns fascinating.  Allocation views map the 
 abstract software elements of an architecture to things that exist
 in the real world. Some of the common patterns include _deployment_, 
-_work assignment_, and _installation_. And that's it basically it.
+_work assignment_, and _installation_. And that's basically it.
 
 [Documenting Software Architecture: Views and Beyond](http://amzn.to/25pJuLf)
 spends about 140 pages of the book describing Module styles and Component and Connector

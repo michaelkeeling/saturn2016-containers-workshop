@@ -116,3 +116,9 @@ Dimensions of Containers:
 * Independence of development (e.g. from infrastructure)
 
 Can I use these dimensions to help decide what kind of “container” / “allocation element” to use?  Docker has high isolation, medium performance (?) and medium independence.
+
+![](images/what-is-a-container-1.jpg)
+
+![](images/what-is-a-container-2.jpg)
+
+![](images/what-is-a-container-3.jpg)

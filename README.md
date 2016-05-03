@@ -2,35 +2,34 @@
 
 Write once run anywhere.  Over the years many technologies and design paradigms have made this promise.  Virtual containers such as Docker and CoreOS may finally be the technology that truly delivers on the promise.  But with all new powers developers must be prepared for a new set of responsibilities.  Containers may bring portability but with it comes new abstractions.  Scalability might be achievable but only when certain patterns are followed.  Like all the magic that came before it, an improper understanding of the abstractions underneath brings calamity.
 
-In this workshop we plan to explore the architectural implications of containerization. Based on what we learn, we'll create posters at the end of the day to summarize our findings so we can share what we've learned with the SATURN community. [Some questions and topics we will consider during the workshop include the items listed on this page](questions.md).
+The workshop took place on Monday, May 2, 2016 in San Diego, CA as part of the [SATURN 2016 conference on software architecture](http://www.sei.cmu.edu/saturn/2016/).
+
+## Workshop Participants
+
+Participants were asked to submit a [position paper](how-to-join.md#position-papers) before the conference to help prepare for discussions.  Those papers are listed below.
+
+* Clay Baenziger - [Basis of Containers](position-papers/baenziger-containers-basis.md)
+* Dennis Mancl - [The Relationship of Containers and Software Testing](position-papers/mancl-relationship-of-containers-and-software-testing.md)
+* Eoin Woods, [@eoinwoodz](https://twitter.com/eoinwoodz) - [Containers as Architectural Elements - better zip files or a new architectural style?](position-papers/eoinwoods-containers-as-architectural-elements.md)
+* George Fairbanks [@GHFairbanks](https://twitter.com/GHFairbanks) - [An IT Application Developer's Perspective on Containers](position-papers/George Fairbanks - An IT Developer's Perspective on Containers.md)
+* Harald Wesenberg, [@hwes](https://twitter.com/hwes) [Using containers to keep costs down while maintaining security](position-papers/Harald-Wesenberg-Using-containers-to-keep-costs-down-while-maintaining-security.md )
+* Jenny Manning [@j41manning](https://twitter.com/j41manning) - [Containers: For Better or Worse](position-papers/manning-containers-for-better-or-worse.md)
+* Jørn Ølmheim - [Containers - Enabler of DevOps](position-papers/joe-containers-enabler-of-devops.md)
+* Kurt Stam [@KurtStam](https://twitter.com/KurtStam) - [Cloud-in-a-box](position-papers/kurt-stam-cloud-in-a-box.md)
+* Len Bass - [Len Bass's Position Paper](position-papers/Len Bass - position paper for SATURN 2016.pdf)
+* Michael Keeling, [@michaelkeeling](https://twitter.com/michaelkeeling) - [Our Understanding of the Allocation Style is Out of Date](position-papers/keeling-our-understanding-of-allocation-patterns-is-out-of-date.md)
 
 
-**Important Dates**
-* Submit draft position papers as a pull request to this repo as soon as possible to reserve your spot in the workshop
-  * Note: Space is limited and spots will be filled first come, first served.
-* Deadline for "final Draft" of position papers - April 16, 2016
-* Workshop - May 2, 2016 @ 8:30 AM
+## Workshop Outcomes
 
+The workshop was conducted as a series of discussions following [this general ageneda](agenda.md).
 
-**More Information**
-* [How to Join the Workshop](/how-to-join.md)
-* [Motivating Questions for Position Papers](/questions.md)
-* [Reference Material to help Prepare for the Workshop](/references.md)
-* [Tentative Workshop Agenda](/agenda.md)
+* [Initial Topic List](outcomes/topic-brainstorm.md)
+* Discussion 1: [What is a container?](outcomes/what-is-a-container.md)
+* Discussion 2: [Container Orchestration](outcomes/container-orchestration.md)
+* Discussion 3: [Containers: Past, Present, and Future](outcomes/containers-past-present-future.md)
+* [End of Workshop Summary](outcomes/summary.md) -- created by the group at the end of the day
 
-
-
-## Position Papers
-* [Our Understanding of the Allocation Style is Out of Date](position-papers/keeling-our-understanding-of-allocation-patterns-is-out-of-date.md) by Michael Keeling
-* [Containers - Enabler of DevOps](position-papers/joe-containers-enabler-of-devops.md) by Jørn Ølmheim
-* [Basis of Containers](position-papers/baenziger-containers-basis.md) by Clay Baenziger
-* [The Relationship of Containers and Software Testing](position-papers/mancl-relationship-of-containers-and-software-testing.md) by Dennis Mancl
-* [An IT Application Developer's Perspective on Containers](position-papers/George Fairbanks - An IT Developer's Perspective on Containers.md) by George Fairbanks
-* [Len Bass's Position Paper](position-papers/Len Bass - position paper for SATURN 2016.pdf) by Len Bass
-* [Containers as Architectural Elements - better zip files or a new architectural style?](position-papers/eoinwoods-containers-as-architectural-elements.md) by Eoin Woods
-* [Using containers to keep costs down while maintaining security](position-papers/Harald-Wesenberg-Using-containers-to-keep-costs-down-while-maintaining-security.md ) by Harald Wesenberg
-* [Containers: For Better or Worse](position-papers/manning-containers-for-better-or-worse.md) by Jenny Manning
-* [Cloud-in-a-box](position-papers/kurt-stam-cloud-in-a-box.md) by Kurt Stam
 
 
 ## About SATURN

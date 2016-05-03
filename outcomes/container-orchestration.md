@@ -86,10 +86,10 @@ The Future?
 
 ![](images/container-orchestration-3.jpg)
 
-![](images/kubernetes-vs-swarm-1.jpg)
+![](images/kubernetes-vs-yarn-1.jpg)
 
-![](images/kubernetes-vs-swarm-2.jpg)
+![](images/kubernetes-vs-yarn-2.jpg)
 
-![](images/kubernetes-vs-swarm-3.jpg)
+![](images/kubernetes-vs-yarn-3.jpg)
 
-![](images/swarm-vs-kubernetes.jpg)
+![](images/yarn-vs-kubernetes.jpg)

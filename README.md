@@ -47,4 +47,8 @@ The 12th SEI Architecture Technology User Network (SATURN) Conference brings tog
 * [Michael Keeling](https://github.com/michaelkeeling) |  [@michaelkeeling](https://twitter.com/michaelkeeling)
 
 
+![](outcomes/images/group-1.jpg)
+
 ![](https://duckduckgrayduck.files.wordpress.com/2011/10/cargo.jpg?w=500)
+
+

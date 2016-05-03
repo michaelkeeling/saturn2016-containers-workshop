@@ -63,3 +63,4 @@ Present tools are based on homogeneous environments (Linux)
 
 "The future is already here. It's just not evenly distributed."
 
+![](images/containers-past-present-future.jpg )

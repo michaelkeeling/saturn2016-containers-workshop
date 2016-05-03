@@ -78,3 +78,18 @@ The Future?
    * Startup 
 * Health checks for startup time
 * How to run a process?  How to do you keep it running?
+
+
+![](images/container-orchestration-1.jpg)
+
+![](images/container-orchestration-2.jpg)
+
+![](images/container-orchestration-3.jpg)
+
+![](images/kubernetes-vs-swarm-1.jpg)
+
+![](images/kubernetes-vs-swarm-2.jpg)
+
+![](images/kubernetes-vs-swarm-3.jpg)
+
+![](images/swarm-vs-kubernetes.jpg)

@@ -2,12 +2,14 @@
 
 ## Past:
  - Java ecosystem (Tomcat, WAR, Jar)
- - Openshift gear
+ - Openshift [gears](http://thenewstack.io/red-hat-openshift-part-1-from-gears-to-docker/)
  - Tuxedo (isolated services, shared data spaces)
     * running things as daemons, "If this crashes, please restart"
  - OSGi containers
- - Erlang - isolation primitives
+ - Erlang - [process isolation](http://cacm.acm.org/magazines/2010/9/98014-erlang/fulltext)
  - Vagrant + VirtualBox (an evolutionary/transitionary technology - leading to Docker)
+   - [`vagrantfile`](https://www.vagrantup.com/docs/vagrantfile/) -> [`dockerfile`](https://docs.docker.com/engine/reference/builder/)
+   - [Vagrant Boxes](https://www.vagrantup.com/docs/boxes.html) -> [Docker Hub](https://docs.docker.com/docker-hub/repos/)
 
 ### Good
 
@@ -25,13 +27,13 @@
 * heavy, slow (especially VirtualBox)
 
 ## Present:
- - Java ecosystem - lighter weight, embedded services
+ - Java ecosystem - lighter weight, embedded services (e.g. embedded Jetty versus deploying on Tomcat/Websphere)
  - Docker
  - Karaf
  - Fabric8
  - Orchestration management of Docker
  - CoreOS
- - Deployment is an "interesting problem" - costly
+ - Deployment is an "interesting problem" - costly[1](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/),
 
 Present tools are based on homogeneous environments (Linux)
  - they are also API-driven

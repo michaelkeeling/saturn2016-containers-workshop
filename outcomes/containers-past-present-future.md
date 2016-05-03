@@ -1,6 +1,6 @@
-Past, present, future of containers
+# Past, present, future of containers
 
-Past:
+## Past:
  - Java ecosystem (Tomcat, WAR, Jar)
  - Openshift gear
  - Tuxedo (isolated services, shared data spaces)
@@ -9,14 +9,14 @@ Past:
  - Erlang - isolation primitives
  - Vagrant + VirtualBox (an evolutionary/transitionary technology - leading to Docker)
 
-Good
-----
+### Good
+
 * conceptual separation of concerns
 * rigid thinking - there is a right way
 * configuration as code...
 
-Bad
----
+### Bad
+
 * actual isolation was poor 
 * lousy management interfaces
 * difficult deployment
@@ -24,7 +24,7 @@ Bad
 * producing the artifact was extremely manual
 * heavy, slow (especially VirtualBox)
 
-Present:
+## Present:
  - Java ecosystem - lighter weight, embedded services
  - Docker
  - Karaf
@@ -36,22 +36,22 @@ Present:
 Present tools are based on homogeneous environments (Linux)
  - they are also API-driven
 
-Good
-----
+### Good
+
 * even more opinionated
 * lightweight, do one thing well
 * pattern language, deployment pipelines
 * tool support
 
-Bad
----
+### Bad
+
 * community diversity is not there yet
 * we don't fully understand or explain implications of use/patterns
 * security - as bad as it was before, but now everyone is using the same base components
 * container as script kiddie
 * single device OS is still visible and relevant
 
-Future:
+## Future:
  - open containers
  - thrid party integration with container ecosystems
  - common language, vocabulary, concepts for deployment

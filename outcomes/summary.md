@@ -72,3 +72,6 @@ Containers are cattle, not pets -- you are ready to kill them off without a regr
 
 - How do we better capture intent vs. manipulating primitives?
 
+![](images/top-things-you-gotta-know.jpg)
+
+![](images/open-questions-and-problems.jpg)

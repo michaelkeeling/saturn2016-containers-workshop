@@ -120,3 +120,6 @@ G: Architects
 
 testing - 6 votes
 
+![](images/raw-topics.jpg)
+
+![](images/prioritized-topics.jpg)

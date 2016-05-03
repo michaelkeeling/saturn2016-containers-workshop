@@ -4,6 +4,16 @@ Write once run anywhere.  Over the years many technologies and design paradigms 
 
 The workshop took place on Monday, May 2, 2016 in San Diego, CA as part of the [SATURN 2016 conference on software architecture](http://www.sei.cmu.edu/saturn/2016/).
 
+## Workshop Outcomes
+
+The workshop was conducted as a series of discussions following [this general ageneda](agenda.md).
+
+* [Initial Topic List](outcomes/topic-brainstorm.md)
+* Discussion 1: [What is a container?](outcomes/what-is-a-container.md)
+* Discussion 2: [Container Orchestration](outcomes/container-orchestration.md)
+* Discussion 3: [Containers: Past, Present, and Future](outcomes/containers-past-present-future.md)
+* [End of Workshop Summary](outcomes/summary.md) -- created by the group at the end of the day
+
 ## Workshop Participants
 
 Participants were asked to submit a [position paper](how-to-join.md#position-papers) before the conference to help prepare for discussions.  Those papers are listed below.
@@ -19,17 +29,14 @@ Participants were asked to submit a [position paper](how-to-join.md#position-pap
 * Len Bass - [Len Bass's Position Paper](position-papers/Len Bass - position paper for SATURN 2016.pdf)
 * Michael Keeling, [@michaelkeeling](https://twitter.com/michaelkeeling) - [Our Understanding of the Allocation Style is Out of Date](position-papers/keeling-our-understanding-of-allocation-patterns-is-out-of-date.md)
 
+**Workshop Organizers**
 
-## Workshop Outcomes
+* [George Fairbanks](https://github.com/georgefairbanks) | [@GHFairbanks](https://twitter.com/GHFairbanks)
+* [Michael Keeling](https://github.com/michaelkeeling) |  [@michaelkeeling](https://twitter.com/michaelkeeling) | [http://neverletdown.net](http://neverletdown.net)
 
-The workshop was conducted as a series of discussions following [this general ageneda](agenda.md).
+Thanks to everyone who participated in this year's workshop!  Not pictured below are Clay and Michael.
 
-* [Initial Topic List](outcomes/topic-brainstorm.md)
-* Discussion 1: [What is a container?](outcomes/what-is-a-container.md)
-* Discussion 2: [Container Orchestration](outcomes/container-orchestration.md)
-* Discussion 3: [Containers: Past, Present, and Future](outcomes/containers-past-present-future.md)
-* [End of Workshop Summary](outcomes/summary.md) -- created by the group at the end of the day
-
+![](outcomes/images/group-1.jpg)
 
 
 ## About SATURN
@@ -41,13 +48,7 @@ The 12th SEI Architecture Technology User Network (SATURN) Conference brings tog
 - [SATURN Archives](http://www.sei.cmu.edu/saturn/2016/presentations.cfm)
 - [SATURN 2015 Workshop on Microservices](https://github.com/michaelkeeling/SATURN2015-Microservices-Workshop)
 
-## Workshop Organizers
 
-* [George Fairbanks](https://github.com/georgefairbanks) | [@GHFairbanks](https://twitter.com/GHFairbanks)
-* [Michael Keeling](https://github.com/michaelkeeling) |  [@michaelkeeling](https://twitter.com/michaelkeeling)
-
-
-![](outcomes/images/group-1.jpg)
 
 ![](https://duckduckgrayduck.files.wordpress.com/2011/10/cargo.jpg?w=500)
 

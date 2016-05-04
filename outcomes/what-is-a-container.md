@@ -20,7 +20,7 @@ Definition attempt: A way to run a process in a isolated space with a complete f
 * Domain of isolation
 * Specification of environment (e.g. network)
 * Access through messages
-   * Ip address -- but that’s not the only way to access it
+   * IP address -- but that’s not the only way to access it
 
 Shipping vs. Running...
 * Image -- the thing you ship
@@ -32,14 +32,14 @@ What goes in the image?  Not the whole kernal, just a smart way to do IP tables�
 
 Why Docker?  Of all the tech?
 * added the file system
-* All the tech was there for years….
+* all the tech was there for years….
 * community, tools
 
 Note: Not all images are transportable!
 * depends on the base image and the operating system
 * Windows native vs. OSX vs. x86 vs. ARM vs ...
 
-Linx IP net address allows multiple Dockers on some IP using network namespaces.  Internally Docker tags IPs in a virtual network
+Linux kernel [network namespaces](http://www.evolware.org/?p=293) allows multiple Docker containers to use the same IP on the host.  Internally the Linux kernel tags IPs in all data structures -- breaking the IP as a sole identifier model for a container.
 
 Primitives provided by containers -- Isolation!
 
@@ -48,20 +48,20 @@ Why is a container not a vm or proces?
 * VM -- too heavy, too much stuff
 
 Is a runnable jar with jetty a container?
-* maybe?  Depends on your point of view
+* Maybe?  Depends on your point of view
 * Isolation at a certain level
 * Isolation between servlets is not as strong as Docker
 * For example, ESB can have “good” isolation but not as many tools…
 
 How much does the content of the container rely on underlying stuff?
-* servlets -- narrow
-* docker -- fairly wide, but... change the OS or processor and all bets are off!
+* Servlets -- narrow
+* Docker -- fairly wide, but... change the OS or processor and all bets are off!
 * Servlets -- too little power
 * VMs -- too much power, too heavy
 * Docker -- just the right power?
 
 # Containers have different levels of freedom
-* Docker = shipping container (works well with standards - shipping on boat vs 747)
+* Docker = shipping container (works well with standards - shipping containers work on a boat but not a passenger 747)
 * VM = the ship carrying the containers
 
 Docker provides a framework-free development environments (with a few base assumptions)

@@ -60,9 +60,6 @@ Why Docker?
 * Reuse 
 * Componentizing
 
-![](images/swarm-vs-kuberneties.jpg)
-
-
 
 The Future?
 

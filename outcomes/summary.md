@@ -32,10 +32,10 @@ The top 6 things you have to know:
 
 1. container definition
 
-Container = Isolation + file system
+   Container = Isolation + file system
 
-* Image = a design-time thing
-* Container = a run-time thing
+   * Image = a design-time thing
+   * Container = a run-time thing
 
 2. There are all kinds of containers, but the future of containers is Docker
 
@@ -50,7 +50,7 @@ Container = Isolation + file system
  - reliability (isolation reduces the damage of a single failure)
  - deployment time (easier to release)
 
-Containers are cattle, not pets -- you are ready to kill them off without a regret...
+ Containers are cattle, not pets -- you are ready to kill them off without a regret...
 
 5. need to spend effort on designing/developing interfaces
 

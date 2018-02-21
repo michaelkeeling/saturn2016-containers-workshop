@@ -26,7 +26,7 @@ Participants were asked to submit a [position paper](how-to-join.md#position-pap
 * Jenny Manning [@j41manning](https://twitter.com/j41manning) - [Containers: For Better or Worse](position-papers/manning-containers-for-better-or-worse.md)
 * Jørn Ølmheim - [Containers - Enabler of DevOps](position-papers/joe-containers-enabler-of-devops.md)
 * Kurt Stam [@KurtStam](https://twitter.com/KurtStam) - [Cloud-in-a-box](position-papers/kurt-stam-cloud-in-a-box.md)
-* Len Bass - [Len Bass's Position Paper](position-papers/Len Bass - position paper for SATURN 2016.pdf)
+* Len Bass - [Len Bass's Position Paper](position-papers/Len%20Bass%20-%20position%20paper%%20SATURN%202016.pdf)
 * Michael Keeling, [@michaelkeeling](https://twitter.com/michaelkeeling) - [Our Understanding of the Allocation Style is Out of Date](position-papers/keeling-our-understanding-of-allocation-patterns-is-out-of-date.md)
 
 **Workshop Organizers**

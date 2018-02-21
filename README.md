@@ -21,7 +21,7 @@ Participants were asked to submit a [position paper](how-to-join.md#position-pap
 * Clay Baenziger - [Basis of Containers](position-papers/baenziger-containers-basis.md)
 * Dennis Mancl - [The Relationship of Containers and Software Testing](position-papers/mancl-relationship-of-containers-and-software-testing.md)
 * Eoin Woods, [@eoinwoodz](https://twitter.com/eoinwoodz) - [Containers as Architectural Elements - better zip files or a new architectural style?](position-papers/eoinwoods-containers-as-architectural-elements.md)
-* George Fairbanks [@GHFairbanks](https://twitter.com/GHFairbanks) - [An IT Application Developer's Perspective on Containers](position-papers/George Fairbanks - An IT Developer's Perspective on Containers.md)
+* George Fairbanks [@GHFairbanks](https://twitter.com/GHFairbanks) - [An IT Application Developer's Perspective on Containers](position-papers/George%20Fairbanks%20-%20An%20IT%20Developer's%20Perspective%20on%20Containers.md)
 * Harald Wesenberg, [@hwes](https://twitter.com/hwes) [Using containers to keep costs down while maintaining security](position-papers/Harald-Wesenberg-Using-containers-to-keep-costs-down-while-maintaining-security.md )
 * Jenny Manning [@j41manning](https://twitter.com/j41manning) - [Containers: For Better or Worse](position-papers/manning-containers-for-better-or-worse.md)
 * Jørn Ølmheim - [Containers - Enabler of DevOps](position-papers/joe-containers-enabler-of-devops.md)
